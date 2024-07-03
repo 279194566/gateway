@@ -1,1 +1,1 @@
-From dockerproxy.com/infinilabs/gateway:latest
+From infinilabs/gateway:latest
