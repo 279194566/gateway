@@ -1,1 +1,1 @@
-From infinilabs/gateway:latest
+From infinilabs/gateway
